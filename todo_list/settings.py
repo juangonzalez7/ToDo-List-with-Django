@@ -81,7 +81,7 @@ DATABASES = {
         "HOST": 'ec2-44-207-133-100.compute-1.amazonaws.com',
         "USER": 'efmwtohlturprg',
         "PASSWORD": '1dc4b6b0a7436a073e2167725244112e671645064b464fa1886e6f936c54ffd1',
-        "PORT": 5432,
+        "PORT": 5432,   
     }
 }
 
