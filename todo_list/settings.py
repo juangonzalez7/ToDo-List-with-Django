@@ -28,6 +28,9 @@ DEBUG = False
 ALLOWED_HOSTS = ['todolist-juan.herokuapp.com',
                  '127.0.0.1']
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://appname.herokuapp.com'
+]
 
 # Application definition
 

@@ -11,6 +11,7 @@ from django.contrib.auth import login
 
 from .models import Task
 
+
 class CustomLoginView(LoginView):
     template_name = 'base/login.html'
     fields = '__all__'
