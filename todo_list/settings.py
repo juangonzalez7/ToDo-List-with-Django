@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ['todolist-juan.herokuapp.com',
                  '127.0.0.1:8000']
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://todolist-juan.herokuapp.com/'
+    'https://todolist-juan.herokuapp.com'
 ]
 
 # Application definition
